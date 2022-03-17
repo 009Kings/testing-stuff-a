@@ -3,7 +3,9 @@
 it's some stuff
 
 [FAQ](./FAQ.md)
+
 [Index](./INDEX.md)
+
 [Test](./TEST.md)
 
 ## wow
