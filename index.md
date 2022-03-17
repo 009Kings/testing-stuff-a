@@ -1,5 +1,2 @@
 # It is a header
-
-- [FAQ](FAQ.md)
-- [Index](PINDEX.md)
-- [Test](TEST.md)
+[FAQ](FAQ.md) | [Index](index.md) | [Test](TEST.md)

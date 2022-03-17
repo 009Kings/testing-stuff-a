@@ -1,3 +1,6 @@
+### Nav
+[Readme](README.md) | [Index](index.md) | [Test](TEST.md)
+
 # FAQ babeeey
 --
 - [ ] testing a checklist
