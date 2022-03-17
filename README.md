@@ -2,11 +2,11 @@
 
 it's some stuff
 
-[FAQ](./FAQ.md)
+[FAQ](FAQ.md)
 
-[Index](./INDEX.md)
+[Index](INDEX.md)
 
-[Test](./TEST.md)
+[Test](TEST.md)
 
 ## wow
 
