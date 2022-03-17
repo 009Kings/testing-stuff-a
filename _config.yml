@@ -9,3 +9,5 @@ include:
   - README.md
   - TEST.md
   - INDEX.md
+
+theme: jekyll-theme-slate
