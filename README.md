@@ -4,7 +4,7 @@ it's some stuff
 
 [FAQ](FAQ.md)
 
-[Index](INDEX.md)
+[Index](PINDEX.md)
 
 [Test](TEST.md)
 
