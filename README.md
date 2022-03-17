@@ -1,7 +1,5 @@
-### Nav
-[FAQ](FAQ.md) | [Index](index.md) | [Test](TEST.md)
+#### [FAQ](FAQ.md) | [Home](index.md) | [Test](TEST.md)
 
-### [test](index.md)
 
 # Readme
 

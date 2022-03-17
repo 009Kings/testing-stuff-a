@@ -1,5 +1,4 @@
-### Nav
-[Readme](README.md) | [Index](index.md) | [Test](TEST.md)
+#### [Readme](README.md) | [Home](index.md) | [Test](TEST.md)
 
 # FAQ babeeey
 --

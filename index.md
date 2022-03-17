@@ -1,2 +1,2 @@
-# It is a header
-[FAQ](FAQ.md) | [Index](index.md) | [Test](TEST.md)
+#### [FAQ](FAQ.md) | [Readme](README.md) | [Test](TEST.md)
+

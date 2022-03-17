@@ -1,5 +1,4 @@
-### Nav
-[FAQ](FAQ.md) | [Index](index.md) | [Readme](README.md)
+#### [FAQ](FAQ.md) | [Home](index.md) | [Readme](README.md)
 
 # H1
 
